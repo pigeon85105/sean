@@ -28,9 +28,10 @@
 ```python
 import random
 rand_int = random.randint(0, 99) + 2020012001
-print("请学号为%d同学回答老师问题！" % rand_int)
+print("请学号为%d同学回答老师问题！" % rand_int)```
 
-我爱学习`print("hello wprld")
+我爱学习`print("hello world")`
+
 
 
 
